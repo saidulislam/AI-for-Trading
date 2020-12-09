@@ -2,7 +2,7 @@
 
 Udacity's Artificial Intelligence for Trading Nanodegree Projects:
 - Project 1: [Trading with Momentum](https://github.com/saidulislam/AI-for-Trading/tree/main/trading-with-momentum)
-- Project 2: Breakout Strategy 
+- Project 2: [Breakout Strategy](https://github.com/saidulislam/AI-for-Trading/tree/main/Breakout-strategy) 
 - Project 3: Smart Beta and Portfolio Optimization 
 - Project 4: Alpha Research and Factor Modelling 
 - Project 5: NLP on Financial Statements 
