@@ -7,5 +7,5 @@ Udacity's Artificial Intelligence for Trading Nanodegree Projects:
 - Project 4: [Alpha Research and Factor Modelling](https://github.com/saidulislam/AI-for-Trading/tree/main/Alpha%20Research%20and%20Factor%20Modeling) 
 - Project 5: [NLP on Financial Statements](https://github.com/saidulislam/AI-for-Trading/tree/main/NLP%20on%20Financial%20Statements) 
 - Project 6: [Sentiment Analysis with Neural Networks](https://github.com/saidulislam/AI-for-Trading/tree/main/Sentiment%20Analysis%20with%20Neural%20Networks) 
-- Project 7: Combining Signals for Enhanced Alpha 
+- Project 7: [Combining Signals for Enhanced Alpha ](https://github.com/saidulislam/AI-for-Trading/tree/main/Combining%20Signals%20for%20Enhanced%20Alpha)
 - Project 8: Backtesting
